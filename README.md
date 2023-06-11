@@ -2,7 +2,6 @@
 
 - 🔭 This is Orall's warehouse 🤔
 - 👯 I hope my code can make you gain something 🌱
-- 😄 Blogs: https://orall.top 💬
 - ⚡ Leetcode: https://leetcode.cn/u/w4hqswuefo/ 📫
 
 <!--
